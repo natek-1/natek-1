@@ -4,9 +4,9 @@
 I'm a second-year Data Science student at the University of Waterloo, passionate about transforming data into actionable insights. My areas of interest include machine learning, deep learning, computer vision, and natural language processing.
 
 💻 **Technical Skills**
-- **Programming Languages:** Python
-- **Frameworks & Libraries:** scikit-learn, PyTorch, TensorFlow
-- **Tools:** Docker, GitHub Actions
+- **Programming Languages:** Python, R
+- **Frameworks & Libraries:** scikit-learn, PyTorch, TensorFlow, Pandas
+- **Tools:** Docker, GitHub Actions, AWS
 - **Practices:** Continuous Integration (CI), Continuous Deployment (CD)
 
 🔍 **What I'm Looking For**
