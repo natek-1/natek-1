@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Nathan Gabriel Kuissi
 
 🎓 **About Me**
-I'm a second-year Data Science student at the University of Waterloo, passionate about transforming data into actionable insights. My areas of interest include machine learning, deep learning, computer vision, and natural language processing.
+I am a third-year Data Science student at the University of Waterloo, passionate about transforming data into actionable insights. My areas of interest include machine learning, deep learning, computer vision, and natural language processing.
 
 💻 **Technical Skills**
-- **Programming Languages:** Python, R
-- **Frameworks & Libraries:** scikit-learn, PyTorch, TensorFlow, Pandas
-- **Tools:** Docker, GitHub Actions, AWS
+- **Programming Languages:** Python, R, C++
+- **Frameworks & Libraries:** scikit-learn, PyTorch, TensorFlow, Pandas, Hugging Face
+- **Tools:** Docker, GitHub Actions, AWS (EC2, ECR, S3)
 - **Practices:** Continuous Integration (CI), Continuous Deployment (CD)
 
 🔍 **What I'm Looking For**
