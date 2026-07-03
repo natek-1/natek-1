@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nathan Gabriel Kuissi
 
 🎓 **About Me**
-I am a third-year Data Science student at the University of Waterloo, passionate about transforming data into actionable insights. My areas of interest include machine learning, deep learning, computer vision, and natural language processing.
+I am a fourth-year Data Science student at the University of Waterloo, passionate about transforming data into actionable insights. My areas of interest include machine learning, deep learning, computer vision, and natural language processing.
 
 💻 **Technical Skills**
 - **Programming Languages:** Python, R, C++
